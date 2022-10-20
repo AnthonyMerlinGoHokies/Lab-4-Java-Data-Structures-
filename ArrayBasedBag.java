@@ -5,16 +5,8 @@ package groceries;
  * The ArrayBasedBag class is an implementation of a bag using an array.
  * It implements all methods in the BagADT plus additional methods.
  * 
- * @author Megan Rigsbee (mrigsbee)
- * @version 2015.03.24
- * @author Margaret Ellis (maellis1)
- * @version 2015.09.16
- * @author Grace Fields (sgrace)
- * @version 2016.02.01
- * @author Kanagaraj Nachimuthu Nallasamy (kanag23)
- * @version 2018.05.02
- * @author Derek Haqq (dhaqq)
- * @version 2020.02.10
+ * @author Anthony Merlin
+ * @version 2022.09.19
  */
 public class ArrayBasedBag implements BagADT {
     // The default initial capacity of the bag
