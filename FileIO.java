@@ -6,8 +6,8 @@ import java.util.Scanner;
 /**
  * Practice reading and writing to a file.
  * 
- * @author Megan Rigsbee (mrigsbee0
- * @version 2015.03.24
+ * @author Anthony Merlin
+ * @version 2022.19.09
  */
 public class FileIO {
     private static String fileName = "grocerylist.txt";
