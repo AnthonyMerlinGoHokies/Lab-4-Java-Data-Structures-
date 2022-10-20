@@ -5,8 +5,8 @@ package groceries;
  * The Grocery Bag class is a bag data structure that holds String objects
  * that represent grocery store items.
  *
- * @author Megan Rigsbee (mrigsbee)
- * @version 2015.04.25
+ * @author Anthiny Merlin
+ * @version 2022.19.09
  * @author Grace Fields
  * @version 2016.02.01
  */
