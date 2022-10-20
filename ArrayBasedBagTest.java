@@ -3,8 +3,8 @@ package groceries;
 /**
  * Test class for ArrayBasedBag
  * 
- * @author Megan Rigsbee (mrigsbee)
- * @version 2015.03.30
+ * @author Anthony Merlin
+ * @version 09.19.2022
  * @author Gracie (sgrace)
  * @version 2016.02.09
  */
