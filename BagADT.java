@@ -4,10 +4,8 @@ package groceries;
 /**
  * The BagADT interface defines the operations for a bag collection.
  * 
- * @author Megan Rigsbee (mrigsbee)
- * @version 2015.03.24
- * @author Grace Fields (sgrace)
- * @version 2016.02.01
+ * @author Anthony Merlin
+ * @version 2022.19.09
  */
 public interface BagADT {
     /**
